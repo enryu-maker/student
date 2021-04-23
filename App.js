@@ -5,7 +5,7 @@
  * @format
  * @flow strict-local
  */
-
+//hello
 import React from 'react';
 import {Node} from 'react';
 import {SafeAreaView,ScrollView,StatusBar,StyleSheet,Text,useColorScheme,View,} from 'react-native';
